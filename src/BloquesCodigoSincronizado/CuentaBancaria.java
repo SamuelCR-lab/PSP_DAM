@@ -1,6 +1,6 @@
 package BloquesCodigoSincronizado;
 
-public class Contador {
+public class CuentaBancaria {
 	private long cont1=0;
 	private long cont2=0;
 	private final Object lock1 = new Object();
